@@ -64,7 +64,7 @@ if(DEFINED ENV{MON_PROD})
     set(MON_PROD_FIOS 1)
   endif()
 else ()
-  set(MON_PROD_FIPS 1)
+  set(MON_PROD_CIOS 1)
 endif()
 
 
